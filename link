@@ -1,3 +1,5 @@
 vless://38d61c58-799a-4e0a-9f2f-de6b9ce860b3@104.31.16.47:443?security=tls&type=grpc&host=FI.SATOSHI.MOM&headerType=&serviceName=&sni=SATOSHI.MOM&fp=chrome&alpn=h2%2Chttp%2F1.1#285167199%40SATOSHIVPN%20%7C%7C%20600.74%20MB/17.0%20GB
 vless://38d61c58-799a-4e0a-9f2f-de6b9ce860b3@104.31.16.89:443?security=tls&type=grpc&host=FI.SATOSHI.MOM&headerType=&serviceName=&sni=SATOSHI.MOM&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%AE%20%5BVLESS%20-%20grpc%5D
 vless://38d61c58-799a-4e0a-9f2f-de6b9ce860b3@104.31.16.89:443?security=tls&type=ws&host=FI.SATOSHI.MOM&headerType=&path=%2Fws&sni=SATOSHI.MOM&fp=chrome&alpn=#%F0%9F%87%AB%F0%9F%87%AE%20%5BVLESS%20-%20ws%5D
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.214:443#%F0%9F%87%B8%F0%9F%87%AA37.19.222.214
+trojan://ba6d5f8d-6036-434b-8cc1-ae0a6ed14945@25061402freevpn.freedns.site:8443/?type=tcp&security=tls&sni=www.speedtest.net&allowInsecure=1#%23Nika_Shakarami_2
